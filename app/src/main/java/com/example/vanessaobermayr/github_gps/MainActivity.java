@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume()
     {
         super.onResume();
-        locman.requestLocationUpdates(LocationManager.GPS_PROVIDER,5000,0,this);
+        //locman.requestLocationUpdates(LocationManager.GPS_PROVIDER,5000,0,this);
 
 
 
