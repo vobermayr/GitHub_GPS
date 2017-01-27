@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         //locman.requestLocationUpdates(LocationManager.GPS_PROVIDER,5000,0,this);
         //von Simon
 
-
+        //VANESSA OBERMAYR
 
 
     }
